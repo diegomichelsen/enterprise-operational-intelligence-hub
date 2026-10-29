@@ -1,5 +1,9 @@
 # Enterprise Operational Intelligence Hub
 
+[![Testes](https://github.com/diegomichelsen/enterprise-operational-intelligence-hub/actions/workflows/tests.yml/badge.svg)](https://github.com/diegomichelsen/enterprise-operational-intelligence-hub/actions/workflows/tests.yml)
+![Status](https://img.shields.io/badge/status-planejado-lightgrey)
+
+
 > Hub de indicadores operacionais para consolidar dados e apoiar decisões de negócio.
 
 **Status:** Planejamento  
